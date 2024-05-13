@@ -10,7 +10,7 @@ def get_response(user_input: str) -> str:
     elif 'kire' in lowered:
         return 'hiiiiiiiiiiiii >~~~~~~<'
     elif 'metal' in lowered:
-        return ">~~~~~~~~~~~~~~~~~~~~~~<"
+        return "he made me lessgoooooooooooooo"
     elif 'animatron' in lowered:
         return "bal amar niggar baccha"
     elif 'kenpachi' in lowered:
